@@ -611,7 +611,7 @@ main > section:first-child {
 }
 .contact-info-wrapper a {
   text-decoration: none;
-  color: #fff;
+  color: #5d5d60;
   font-weight: 500;
 }
 .contact-info-wrapper a:hover {
@@ -654,9 +654,11 @@ main > section:first-child {
   transition: opacity 0.3s;
 }
 .contact-btn.whatsapp {
+  color: #fff;
   background-color: #25d366;
 }
 .contact-btn.messenger {
+  color: #fff;
   background-color: #006aff;
 }
 .contact-btn:hover {
