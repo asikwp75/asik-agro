@@ -114,7 +114,7 @@ const HeroSection = () => (
     <div className="hero-content">
       <h1>শীঘ্রই আসছি আমরা!</h1>
       <p className="hero-subtitle">
-        খাঁটি ও বিশুদ্ধ পণ্যের প্রতিশ্রুতি নিয়ে আসিফ এগ্রো আসছে আপনাদের
+        খাঁটি ও বিশুদ্ধ পণ্যের প্রতিশ্রুতি নিয়ে আশিক এগ্রো আসছে আপনাদের
         দোরগোড়ায়। আমাদের সাথেই থাকুন!
       </p>
       <div className="hero-update-info">
